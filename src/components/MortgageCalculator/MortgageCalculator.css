@@ -1,0 +1,38 @@
+.mortage-calculator {
+    width:500px;
+    padding: 20px;
+
+}
+
+.mortgage-calculator__fieldset {
+    border: none;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+.mortgage-calculator__label {
+    font-weight: 700;
+}
+
+.mortgage-calculator__item {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px auto 10px;
+}
+
+
+.mortgage-calculator__button-field {
+    width:30px;
+    height:30px;
+    cursor:pointer;
+}
+
+.mortgage-calculator__input {
+    width: 80%;
+    height: 24px;
+}
+
+.mortgage-calculator__button-submit {
+    width:100%;
+    cursor:pointer;
+}
